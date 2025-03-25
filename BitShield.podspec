@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BitShield'
-  s.version          = '0.5.2'
+s.version = '0.6.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
